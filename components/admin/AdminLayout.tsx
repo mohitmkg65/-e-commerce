@@ -8,7 +8,6 @@ import Link from 'next/link';
 import ChildrenInterface from '@/interface/children.interface';
 import Logo from '../shared/Logo';
 import { usePathname } from 'next/navigation';
-import { title } from 'process';
 
 const { Header, Content, Sider } = Layout;
 
